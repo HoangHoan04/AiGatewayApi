@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AiGatewayApi.Application/AiGatewayApi.Application.csproj" />
+  <Project Path="AiGatewayApi.Domain/AiGatewayApi.Domain.csproj" />
+  <Project Path="AiGatewayApi.Infrastructure/AiGatewayApi.Infrastructure.csproj" />
+  <Project Path="AiGatewayApi.WebApi/AiGatewayApi.WebApi.csproj" />
+</Solution>
